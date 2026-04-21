@@ -39,7 +39,7 @@
     "james-heinrich/getid3": "^1.9",
     "laravel/nova": "^4.0 || ^5.0",
     "nova-kit/nova-packages-tool": "^1.3.1 || ^2.0",
-    "pion/laravel-chunk-upload": "laravel-13-support",
+    "pion/laravel-chunk-upload": "dev-laravel-13-support",
     "spatie/invade": "^1.0 || ^2.0"
   },
   "require-dev": {
