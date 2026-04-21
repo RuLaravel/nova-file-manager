@@ -109,6 +109,6 @@
       "infection/extension-installer": false
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
